@@ -1,0 +1,17 @@
+{
+    "name": "rhko/kafka-bridge",
+    "require": {
+        "laravel/framework": "^8.50"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rhko\\KafkaBridge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rhko",
+            "email": "hk.tfr91@gmail.com"
+        }
+    ]
+}
